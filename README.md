@@ -1,1 +1,1 @@
-# mdo-emmo-alignment
+## Initial alignment between MDO and EMMO
